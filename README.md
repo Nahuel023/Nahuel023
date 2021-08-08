@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nahuel023
+- 👀 I’m interested in industrial development
+- 🌱 I’m currently learning #C C++ Qt Java Python
+- 📫 How to reach me alexisnahuel.medina@gmail.com

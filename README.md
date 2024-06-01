@@ -67,6 +67,8 @@
   <img width="12" />
   <img src="https://voltanode.com/wp-content/uploads/2022/07/Espressif-Logo.png" height="40" alt="qt logo"  />
   <img width="12" />
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c632fd45cd30f743dc587fa53d780904/mbed-os-2022-05-24.jpg" height="40" alt="qt logo"  />
+  <img width="12" />
 </div>
 
 ###

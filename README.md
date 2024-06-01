@@ -62,6 +62,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
 </div>
 
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfo8_pMlKOTxlYGfcEbQznPtynOcn0XlBrOg&s" height="40" alt="qt logo"  />
+  <img width="12" />
+</div>
+
 ###
 
 

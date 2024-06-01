@@ -65,7 +65,7 @@
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfo8_pMlKOTxlYGfcEbQznPtynOcn0XlBrOg&s" height="40" alt="qt logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.JYC7p0wmFvztSOuemRD7gQHaHa?rs=1&pid=ImgDetMain" height="40" alt="qt logo"  />
+  <img src="https://voltanode.com/wp-content/uploads/2022/07/Espressif-Logo.png" height="40" alt="qt logo"  />
   <img width="12" />
 </div>
 

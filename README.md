@@ -53,21 +53,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
 </div>
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfo8_pMlKOTxlYGfcEbQznPtynOcn0XlBrOg&s" height="40" alt="qt logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfo8_pMlKOTxlYGfcEbQznPtynOcn0XlBrOg&s" height="40" alt="STM logo"  />
   <img width="12" />
-  <img src="https://voltanode.com/wp-content/uploads/2022/07/Espressif-Logo.png" height="40" alt="qt logo"  />
+  <img src="https://voltanode.com/wp-content/uploads/2022/07/Espressif-Logo.png" height="40" alt="espressif logo"  />
   <img width="12" />
-  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c632fd45cd30f743dc587fa53d780904/mbed-os-2022-05-24.jpg" height="40" alt="qt logo"  />
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c632fd45cd30f743dc587fa53d780904/mbed-os-2022-05-24.jpg" height="40" alt="mbed logo"  />
   <img width="12" />
 </div>
 

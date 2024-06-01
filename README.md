@@ -8,6 +8,8 @@
 
 <p align="left">Soy un estudiante de Ingeniería Mecatrónica de Argentina. Me encanta aprender nuevas tecnologías y compartir lo que sé con los demás.</p>
 
+###
+
 <h2 align="left">👨‍💻 Algunas de mis habilidades incluyen:</h2>
 
 ###

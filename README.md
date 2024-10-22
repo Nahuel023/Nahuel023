@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Soy un estudiante de Ingeniería Mecatrónica de Argentina. Me encanta aprender nuevas tecnologías y compartir lo que sé con los demás.</p>
+<p align="left">Soy Ingeniero Mecatrónico de Argentina. Me encanta aprender nuevas tecnologías y compartir lo que sé con los demás.</p>
 
 ###
 

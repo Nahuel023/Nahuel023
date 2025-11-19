@@ -1,1 +1,118 @@
-<h1 align="left">Hola, soy Nahuel👋</h1> ### <h2 align="left">Acerca de mi 🚀</h2> ### <p align="left">Soy Ingeniero Mecatrónico de Argentina. Me encanta aprender nuevas tecnologías y compartir lo que sé con los demás.</p> ### <h2 align="left">👨‍💻 Algunas de mis habilidades incluyen:</h2> ### <p align="left">- Lenguajes de programación: C, C++, ASM, Python, JavaScript<br>- Desarrollo de software: Qt, PyQt6<br>- Bases de datos: MySQL, PostgreSQL<br>- Herramientas: Git, VScode, Qt, STM32CUBEIDE, espressif</p> ### <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" /> </div> ### <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /> </div> ### <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo" /> </div> ### <div align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfo8_pMlKOTxlYGfcEbQznPtynOcn0XlBrOg&s" height="40" alt="STM logo" /> <img width="12" /> <img src="https://https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" height="40" alt="espressif logo" /> <img width="12" /> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c632fd45cd30f743dc587fa53d780904/mbed-os-2022-05-24.jpg" height="40" alt="mbed logo" /> <img width="12" /> </div> ### <h2 align="left">🌱 Actualmente estoy aprendiendo</h2> ### <p align="left">Estoy mejorando mis habilidades en el desarrollo e implementación de sistemas operativos en tiempo real FREERTOS con espressif ESP32.</p> ### <h2 align="left">📫 Cómo contactarme</h2> ### <p align="left">Puedes enviarme un correo electrónico a alexisnahuel.medina@gmail.com.</p> ### <h2 align="left">📊 Mis estadísticas de GitHub</h2> ### <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nahuel023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nahuel023&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" /> <img src="https://streak-stats.demolab.com?user=Nahuel023&locale=es&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> </div> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </picture> </div>
+<h1 align="left">Hola, soy Nahuel 👋</h1>
+
+###
+<!-- Presentación breve y profesional -->
+
+<p align="left">
+Soy <strong>Ingeniero Mecatrónico</strong> especializado en robótica industrial, automatización y desarrollo de sistemas embebidos.  
+Trabajo integrando robots industriales (KUKA, ABB), desarrollando software técnico y diseñando soluciones que conectan robótica, control y electrónica.
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+- +5 años trabajando con sistemas embebidos y microcontroladores.  
+- Experiencia profesional en celdas robóticas, automatización de procesos industriales y control de movimiento.  
+- Enfoque orientado a la ingeniería aplicada, la optimización técnica y la implementación robusta.  
+- Siempre aprendiendo nuevas tecnologías y documentando procesos para que otros también puedan crecer.
+
+---
+
+## 🧠 Áreas de especialización
+
+### 🤖 Robótica Industrial
+- **KUKA**: Programación en **KRL**, KSS 8.x, configuración de herramientas/bases, WorkVisual, EtherNet/IP, Profinet, X11.  
+- **ABB**: Programación en **RAPID**, simulación avanzada con **RobotStudio**, estaciones virtuales, ciclos P&P.  
+
+### 🛠 Sistemas Embebidos
+- Programación en **C, C++, ASM** para microcontroladores.  
+- FreeRTOS (STM32, ESP32), drivers modulares, optimización de procesos en tiempo real.  
+- Comunicación industrial / buses: UART, I2C, SPI, CAN, Modbus.
+
+### 💻 Software & Desarrollo
+- Aplicaciones técnicas con **Qt / PyQt**, Python científico.  
+- Bases de datos: MySQL, PostgreSQL.  
+- CI/CD con Git, GitHub, automatización de flujos de trabajo.
+
+---
+
+## 🏆 Badges de habilidades y tecnologías
+
+<!-- Lenguajes -->
+### 🔤 Lenguajes & Runtime
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-4C75F2?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASM-6E4C13?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+### ⚙️ Robótica Industrial
+
+<p align="left">
+  <img src="https://img.shields.io/badge/KUKA-KRL-FF6C00?style=for-the-badge&logo=kuka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ABB-RAPID-EC1C24?style=for-the-badge&logo=abb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KUKA-WorkVisual-202020?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ABB-RobotStudio-0041C2?style=for-the-badge&logo=abb&logoColor=white"/>
+</p>
+
+---
+
+### 🛠 Herramientas / Ecosistemas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-espressif-E73528?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-00263B?style=for-the-badge&logo=freertos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-3DDC84?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Actualmente aprendiendo
+
+<p align="left">
+Me encuentro profundizando en:
+</p>
+
+- Diseño avanzado de sistemas basados en **FreeRTOS** en ESP32.  
+- Integración de robots industriales en celdas productivas completas.  
+- Técnicas de control, planificación de trayectorias y simulación avanzada.
+
+---
+
+## 📂 Estadísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nahuel023&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nahuel023&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nahuel023&theme=github-dark-blue&hide_border=true" height="150"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## 📫 Contacto
+
+📧 **alexisnahuel.medina@gmail.com**
+
+---
+
+

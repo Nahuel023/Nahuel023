@@ -2,18 +2,18 @@
 
 <p align="left">
 Ingeniero Mecatrónico especializado en <strong>robótica industrial</strong>, <strong>sistemas embebidos</strong> y <strong>automatización</strong>.  
-Trabajo integrando robots KUKA y ABB, diseñando celdas robóticas, programando PLCs y desarrollando software técnico para control y producción.
+Trabajo integrando robótica, diseñando celdas, programando PLCs y desarrollando software técnico para control y producción.
 </p>
 
 ---
 
 ## 🚀 Qué hago
 
-- 🤖 Programación de robots **KUKA (KRL)** y **ABB (RAPID)**  
-- 🔧 Integración industrial: WorkVisual, RobotStudio, EtherNet/IP, Profinet  
+- 🤖 Programación de robots **KUKA** y **ABB**  
+- 🔧 Integración industrial: WorkVisual, RobotStudio  
 - ⚙️ Desarrollo en **C / C++ / ASM / Python**  
 - 🛠 Sistemas embebidos: STM32, ESP32, FreeRTOS  
-- 🗂 Programación de **PLC Schneider, Siemens y Mitsubishi** en **ladder**  
+- 🗂 Programación de **PLC Schneider, Siemens y Mitsubishi** 
 - 🌐 Comunicación industrial: Modbus TCP/RTU, Profinet, Ethernet/IP, CC-Link  
 - 🧩 Aplicaciones técnicas con Qt / PyQt  
 - 🗄 Bases de datos: MySQL – PostgreSQL  

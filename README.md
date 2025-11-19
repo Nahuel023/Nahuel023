@@ -97,6 +97,14 @@ Trabajo integrando robótica, diseñando celdas, programando PLCs y desarrolland
   <img src="https://streak-stats.demolab.com?user=Nahuel023&theme=transparent&hide_border=true" height="150" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
 ---
 
 ## 📫 Contacto

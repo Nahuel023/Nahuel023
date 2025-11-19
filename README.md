@@ -93,9 +93,6 @@ Trabajo integrando robótica, diseñando celdas, programando PLCs y desarrolland
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuel023&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nahuel023&theme=transparent&hide_border=true" height="150" />
-</p>
 
 <div align="center">
   <picture>
